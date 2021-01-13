@@ -35,6 +35,5 @@ worldhello
 worldhello
 worldhello
 <<<<<<< HEAD
-worlf今天天气好晴朗处处好风光
-world鸟儿忙啊蜜蜂也忙
+吴哥天下第一帅
 >>>>>>> hot-fix
